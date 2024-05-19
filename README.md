@@ -1,4 +1,4 @@
-# Kaiburr Task 5: CI-CD Pipeline for React Application
+# Task 5: CI-CD Pipeline for React Application
 
 This repository demonstrates the setup and configuration of a Continuous Integration and Continuous Deployment (CICD) pipeline for a React application deployed to an AWS S3 bucket.
 
@@ -36,7 +36,7 @@ The project is structured as follows:
 
 ## Requirements
 
-Before setting up the CICD pipeline, ensure you have the following:
+Before setting up the CI-CD pipeline, ensure you have the following:
 
 - An AWS account with appropriate permissions.
 - The React application codebase.
